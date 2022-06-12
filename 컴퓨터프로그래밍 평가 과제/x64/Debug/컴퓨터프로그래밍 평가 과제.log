@@ -1,0 +1,8 @@
+﻿  sub.c
+C:\Users\hanna\source\repos\컴퓨터프로그래밍 평가 과제\sub.c(19,9): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+C:\Users\hanna\source\repos\컴퓨터프로그래밍 평가 과제\main.c(57,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hanna\source\repos\컴퓨터프로그래밍 평가 과제\main.c(67,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\Users\hanna\source\repos\컴퓨터프로그래밍 평가 과제\sub.c(28): warning C4716: 'aver': 값을 반환해야 합니다.
+  컴퓨터프로그래밍 평가 과제.vcxproj -> C:\Users\hanna\source\repos\컴퓨터프로그래밍 평가 과제\x64\Debug\컴퓨터프로그래밍 평가 과제.exe
